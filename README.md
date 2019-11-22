@@ -14,6 +14,7 @@ To view the app, visit: http://ecommerce-react-project.herokuapp.com/
 
 ## Created By
 Savannah Israel
+
 See More at https://savannahisrael.com
 
 Contribution Credits to Course Instructors 
